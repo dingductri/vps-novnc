@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://script-surge-premises-talking.trycloudflare.com/vnc.html
+URL       : https://stan-grows-numeric-act.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 16:27:45
+Created   : 2026-07-30 21:10:08
 =======================================================
