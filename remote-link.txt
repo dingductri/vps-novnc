@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://station-oak-galleries-parliamentary.trycloudflare.com/vnc.html
+URL       : https://gcc-proprietary-reduction-possess.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 06:10:34
+Created   : 2026-08-07 10:53:52
 =======================================================
