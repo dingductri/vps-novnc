@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brief-burke-scoring-aspect.trycloudflare.com/vnc.html
+URL       : https://sie-servers-until-engineer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 16:54:23
+Created   : 2026-08-07 00:55:26
 =======================================================
