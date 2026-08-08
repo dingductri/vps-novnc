@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lotus-discovered-tvs-procurement.trycloudflare.com/vnc.html
+URL       : https://statutes-shakespeare-facility-probe.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 10:32:39
+Created   : 2026-08-08 15:29:30
 =======================================================
