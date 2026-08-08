@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://buddy-moisture-customers-printers.trycloudflare.com/vnc.html
+URL       : https://constant-adapted-durham-colorado.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 01:25:48
+Created   : 2026-08-08 05:43:41
 =======================================================
