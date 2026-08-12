@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://distinction-proceeding-stuart-accordingly.trycloudflare.com/vnc.html
+URL       : https://construction-sales-hostel-yang.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 16:00:34
+Created   : 2026-08-12 20:43:30
 =======================================================
