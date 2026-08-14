@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://boxed-mills-everyone-ottawa.trycloudflare.com/vnc.html
+URL       : https://infrared-than-lots-exact.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 20:42:25
+Created   : 2026-08-14 01:49:01
 =======================================================
