@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://deviation-builds-riders-studio.trycloudflare.com/vnc.html
+URL       : https://trader-template-wellington-autos.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 10:27:32
+Created   : 2026-08-16 15:21:41
 =======================================================
