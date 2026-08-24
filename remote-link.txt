@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://confidential-alternatively-came-checkout.trycloudflare.com/vnc.html
+URL       : https://prefers-claimed-past-mas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 01:11:08
+Created   : 2026-08-24 05:39:13
 =======================================================
