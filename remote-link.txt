@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://desired-wish-covered-slides.trycloudflare.com/vnc.html
+URL       : https://margaret-enlarge-diagnosis-generators.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-26 22:45:11
+Created   : 2026-08-27 07:21:15
 =======================================================
