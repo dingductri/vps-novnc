@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rules-phases-complexity-barbara.trycloudflare.com/vnc.html
+URL       : https://compact-details-use-east.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 17:11:21
+Created   : 2026-09-05 21:57:29
 =======================================================
