@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thereof-treo-encourage-laboratory.trycloudflare.com/vnc.html
+URL       : https://inquiries-temperatures-diana-instrumental.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 09:11:29
+Created   : 2026-09-06 13:26:18
 =======================================================
