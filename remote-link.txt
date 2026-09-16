@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cgi-max-artistic-plate.trycloudflare.com/vnc.html
+URL       : https://barry-max-researchers-corners.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-16 14:39:00
+Created   : 2026-09-16 18:41:44
 =======================================================
