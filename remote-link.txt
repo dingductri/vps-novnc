@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://montreal-vocal-controller-medical.trycloudflare.com/vnc.html
+URL       : https://chips-tracking-mon-rebate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-19 09:13:26
+Created   : 2026-09-19 13:43:51
 =======================================================
