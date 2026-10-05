@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://twin-sources-said-producer.trycloudflare.com/vnc.html
+URL       : https://gamma-daniel-green-livecam.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 22:46:13
+Created   : 2026-10-05 04:06:51
 =======================================================
