@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://jaguar-sacred-nextel-urls.trycloudflare.com/vnc.html
+URL       : https://illinois-copyright-rpg-winning.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 04:23:46
+Created   : 2026-10-12 12:46:59
 =======================================================
