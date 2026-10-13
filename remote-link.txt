@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://suits-surveys-law-calgary.trycloudflare.com/vnc.html
+URL       : https://macintosh-studio-prefer-mate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 22:25:14
+Created   : 2026-10-13 05:32:08
 =======================================================
