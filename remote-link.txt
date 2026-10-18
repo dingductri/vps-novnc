@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://summary-conclude-graphical-satellite.trycloudflare.com/vnc.html
+URL       : https://crm-tab-assured-lawyer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 22:00:59
+Created   : 2026-10-18 03:05:21
 =======================================================
