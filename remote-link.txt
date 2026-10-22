@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://election-enter-statutes-close.trycloudflare.com/vnc.html
+URL       : https://need-lessons-device-aruba.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 14:55:31
+Created   : 2026-10-22 19:06:19
 =======================================================
