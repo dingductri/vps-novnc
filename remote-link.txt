@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://precision-tmp-submitted-you.trycloudflare.com/vnc.html
+URL       : https://stable-stood-documented-rich.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 10:45:41
+Created   : 2026-10-31 19:07:35
 =======================================================
