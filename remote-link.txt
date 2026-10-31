@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stable-stood-documented-rich.trycloudflare.com/vnc.html
+URL       : https://mild-constraint-ross-generally.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 19:07:35
+Created   : 2026-10-31 23:07:32
 =======================================================
