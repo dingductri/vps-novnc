@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://instantly-bye-wiki-slow.trycloudflare.com/vnc.html
+URL       : https://research-console-elderly-uses.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 04:30:31
+Created   : 2026-11-08 11:43:27
 =======================================================
