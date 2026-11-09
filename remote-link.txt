@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://track-alexandria-rank-permissions.trycloudflare.com/vnc.html
+URL       : https://exotic-host-writing-intellectual.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 23:27:37
+Created   : 2026-11-09 04:43:23
 =======================================================
