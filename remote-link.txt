@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inspection-novels-legislature-andrea.trycloudflare.com/vnc.html
+URL       : https://great-damaged-elect-mats.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-18 22:30:34
+Created   : 2026-11-19 05:58:09
 =======================================================
